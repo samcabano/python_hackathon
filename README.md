@@ -2,7 +2,7 @@
 
 For our hackathon project, my partner and I chose to create a blackjack game in python. We utilized the "Use, Modify, Create" methodology with code found on [GitHub](https://gist.github.com/mjhea0/5680216).
 
-Here is an example from main function of the game:
+#### Here is an example from main function of the game:
 ```python
 def game():
 #clear the "choice" variable and clear the screen
@@ -33,8 +33,8 @@ def game():
 	play_again()
 ```
 
-Please enjoy our presentation:
-[<p align="center"><img src="presentation_link.png" class="centerImage" style="margin: 10px"></p>](https://youtu.be/ddibLfuTo10)
+### Please enjoy our presentation:
+[<img src="presentation_link.png" class="centerImage" style="margin: 10px">](https://youtu.be/ddibLfuTo10)
 
 <h3 align="center">
   <a href="https://samcabano.github.io/cabano-profile/">Return to ABOUT ME</a>
