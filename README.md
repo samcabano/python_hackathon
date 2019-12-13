@@ -34,7 +34,7 @@ def game():
 ```
 
 Please enjoy our presentation:
-[<h3 align="center"><img src="presentation_link.png" class="centerImage" style="margin: 10px"></h3>](https://youtu.be/ddibLfuTo10)
+[<p align="center"><img src="presentation_link.png" class="centerImage" style="margin: 10px"></p>](https://youtu.be/ddibLfuTo10)
 
 <h3 align="center">
   <a href="https://samcabano.github.io/cabano-profile/">Return to ABOUT ME</a>
