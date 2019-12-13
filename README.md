@@ -2,7 +2,7 @@
 
 For our hackathon project, my partner and I chose to create a blackjack game in python. We utilized the "Use, Modify, Create" methodology with code found on [GitHub](https://gist.github.com/mjhea0/5680216).
 
-### Presentation link: [Blackjack in Python](https://youtu.be/ddibLfuTo10)
+#### Presentation link: [Blackjack in Python](https://youtu.be/ddibLfuTo10)
 
 Repository Links:
    - [Blackjack Code](https://github.com/samcabano/python_hackathon/blob/master/blackjack.py)
