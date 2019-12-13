@@ -32,7 +32,7 @@ def game():
 	play_again()
 ```
 
-[!<img src="presentation_link.png" align="right" style="margin: 10px">](https://youtu.be/ddibLfuTo10)
+[!<img src="presentation_link.png" text-align="center" style="margin: 10px">](https://youtu.be/ddibLfuTo10)
 
 <h3 align="center">
   <a href="https://samcabano.github.io/cabano-profile/">Return to ABOUT ME</a>
