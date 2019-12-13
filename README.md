@@ -2,12 +2,13 @@
 
 For our hackathon project, my partner and I chose to create a blackjack game in python. We utilized the "Use, Modify, Create" methodology with code found on [GitHub](https://gist.github.com/mjhea0/5680216).
 
-### Presentation link: [Blackjack in Python](https://youtu.be/ddibLfuTo10)!
+### Presentation link: [Blackjack in Python](https://youtu.be/ddibLfuTo10)
 
-#### Here is an example from main function of the game:
+Repository Links:
    - [Blackjack Code](https://github.com/samcabano/python_hackathon/blob/master/blackjack.py)
    - [Code that prints an Ascii image of a random card from a deck](https://github.com/samcabano/python_hackathon/blob/master/ascii_cards.py)
-    
+
+Example:
 ```python
 def game():
 #clear the "choice" variable and clear the screen
